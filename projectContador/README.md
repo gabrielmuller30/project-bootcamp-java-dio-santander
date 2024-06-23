@@ -1,18 +1,19 @@
-## Getting Started
+## Intuito do projeto -- Portuguese-BR
+- Uso do Try/catch para rodar o algoritmo e supor uma possível falha na inserção do dado
+- Uso do for para realizar uma contagem
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Estrutura dos arquivos
+O espaço de trabalho contém duas pastas por padrão, onde:
+
+- `src`: a pasta para manter as fontes
+- `lib`: a pasta para manter as dependências
+
+## Project Purpose -- English
+- Use of Try/Catch to run the algorithm and assume a possible failure in data insertion
+- using "for" to perform a count
 
 ## Folder Structure
-
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
